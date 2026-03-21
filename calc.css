@@ -78,6 +78,8 @@ button:focus{
 }
 .hide{
     background-color:#444444;
+    pointer-events: none;
+    cursor: default;
 }
 .hide:hover{
     background-color:#444444;
